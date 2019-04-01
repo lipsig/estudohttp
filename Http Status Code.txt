@@ -1,0 +1,20 @@
+Quando a aplicação web faz alguma requisição http ela gera um codigo dizendo seu status:
+
+POST em Sucesso - Codigo 201 (Created)
+GET em Sucesso - Codigo 200 (OK)
+UPDATE em Sucesso - Codigo 200 (OK) Body not necessary
+DELETE em Sucesso - Codigo - 204
+
+
+
+Http satus code:
+
+* 1xx - informação
+
+* 2xx - sucesso
+
+* 3xx - redirecionamento
+
+* 4xx - erro no cliente
+
+ * 5xx - erro no servidor
